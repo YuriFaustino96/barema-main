@@ -12,9 +12,9 @@ st.title("📄 Barema - Produção Científica - UESC")
 # === Lista de docentes
 dados_docentes =[
     {
-        "CPF": "25907171803",
-        "Nome": "Emanuela Cardoso da Silva",
-        "DataNascimento": "03011977"
+        "CPF": "06889768400",
+        "Nome": "Stephanny Conceição Farias do Egito Costa",
+        "DataNascimento": "31081989"
     },
       {
         "CPF": "03875882997",
