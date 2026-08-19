@@ -12,11 +12,41 @@ st.title("📄 Barema - Produção Científica - UESC")
 # === Lista de docentes
 dados_docentes =[
     {
-        "CPF": "17684134876",
-        "Nome": "Rodrigo luis silva ribeiro santos",
-        "DataNascimento": "27041977"
+        "CPF": "79019684787",
+        "Nome": "Erminda da conceição guerreiro couto",
+        "DataNascimento": "12031962"
     },
-      
+    
+    {
+        "CPF": "03512447783",
+        "Nome": "Elisa prestes massena",
+        "DataNascimento": "23031975"
+    },
+   {
+        "CPF": "03124122151",
+        "Nome": "Ítala paris de souza",
+        "DataNascimento": "19071990"
+    },
+   {
+        "CPF": "10818911816",
+        "Nome": "Vera rosa capelossi",
+        "DataNascimento": "06111965"
+    },
+   {
+        "CPF": "71592040004",
+        "Nome": "Rogério Tolfo",
+        "DataNascimento": "16091972"
+    },  
+    {
+        "CPF": "00679790500",
+        "Nome": "Marcio Luis Oliveira Ferreira",
+        "DataNascimento": "06041977"
+    }, 
+    {
+        "CPF": "93842465904",
+        "Nome": "Andréa miura da costa",
+        "DataNascimento": "21071975"
+    }, 
 ]
 
 # === Função para buscar dados da API
